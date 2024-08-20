@@ -1,0 +1,48 @@
+.main_card_blog {
+  margin: 10px;
+  height: max-content;
+  width: 300px;
+  box-shadow: 1px 1px 10px lightgray;
+  border-radius: 20px;
+}
+.card_head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.user_profile_img {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+}
+.user_name {
+  text-transform: capitalize;
+  font-weight: 200;
+  font-size: 14px;
+  text-align: right;
+}
+.Blog_data_time {
+  text-transform: lowercase;
+  font-weight: 100;
+  font-size: 12px;
+  color: grey;
+  text-align: right;
+}
+.image_space {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog_image {
+  width: 290px;
+  border-radius: 20px;
+}
+.blog_head {
+  padding: 10px;
+  padding-bottom: 0;
+}
+.blog_desc {
+  font-weight: 300;
+  padding: 10px;
+}

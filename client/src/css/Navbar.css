@@ -1,0 +1,33 @@
+#Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+.nav_a{
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+    padding: 10px;
+}
+.nav_a:hover{
+    background-color: white;
+    color: black;
+    transition: all 0.2s ease-in;
+}
+
+#logo{
+    font-family: bold;
+}
+#nav_blogs{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#user{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
