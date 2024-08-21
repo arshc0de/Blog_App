@@ -26,7 +26,7 @@ To get started with the **Blog World** app, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/blog_world.git
+   git clone https://github.com/arshc0de/Blog_App.git
    ```
 2. **Install Dependencies**:
    Navigate to the project directory and run:
