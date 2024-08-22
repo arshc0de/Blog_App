@@ -49,7 +49,7 @@ To get started with the **Blog World** app, follow these steps:
 
 ## 📸 Screenshots
 
-![Blog World Screenshot](link-to-screenshot)
+![Blog World Screenshot](#link)
 
 ## 💬 Contributing
 
